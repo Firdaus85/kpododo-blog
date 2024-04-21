@@ -31,7 +31,7 @@ export const Header = () => {
 			{visibleItems.map((item) => (
 				<li key={item.url}>
 					<a
-						href={item.url}
+						href="https://kpododoconsult.com/"
 						target="_blank"
 						rel="noopener noreferrer"
 						className="transition-200 block max-w-[200px] truncate text-ellipsis whitespace-nowrap rounded-full p-2 transition-colors hover:bg-white hover:text-black dark:hover:bg-neutral-800 dark:hover:text-white"
@@ -77,7 +77,7 @@ export const Header = () => {
 	);
 
 	return (
-		<header className="border-b bg-slate-950 py-10 dark:border-neutral-800 dark:bg-neutral-900">
+		<header className="border-b bg-gray-100 py-3 dark:border-neutral-800 dark:bg-neutral-900">
 			<Container className="grid grid-cols-4 gap-5 px-5">
 				<div className="col-span-2 flex flex-1 flex-row items-center gap-2 lg:col-span-1">
 					<div className="lg:hidden">
@@ -99,7 +99,7 @@ export const Header = () => {
 				</div>
 				<div className="col-span-2 flex flex-row items-center justify-end gap-5 text-slate-300 lg:col-span-3">
 					<nav className="hidden lg:block">{navList}</nav>
-					<Button href={baseUrl} as="a" type="primary" label="Book a demo" />
+					<Button href={baseUrl} as="a" type="primary" label="Get Started" />
 				</div>
 			</Container>
 			<div className="mt-5 flex justify-center lg:hidden">

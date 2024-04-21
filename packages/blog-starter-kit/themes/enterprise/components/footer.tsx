@@ -32,23 +32,18 @@ export const Footer = () => {
 							</p>
 							<ul className="flex flex-col gap-1 text-slate-700 dark:text-neutral-300">
 								<li>
-									<a href="#" className="hover:underline">
+									<a href="https://kpododoconsult.com/contact" className="hover:underline">
 										Contact us
 									</a>
 								</li>
 								<li>
-									<a href="#" className="hover:underline">
+									<a href="https://kpododoconsult.com/contact" className="hover:underline">
 										Book a demo
 									</a>
 								</li>
 								<li>
 									<a href="#" className="hover:underline">
 										Newsletter
-									</a>
-								</li>
-								<li>
-									<a href="#" className="hover:underline">
-										Slack
 									</a>
 								</li>
 							</ul>
@@ -62,15 +57,11 @@ export const Footer = () => {
 									</a>
 								</li>
 								<li>
-									<a href="#" className="hover:underline">
+									<a href="https://kpododoconsult.com/contact" className="hover:underline">
 										Use Cases
 									</a>
 								</li>
-								<li>
-									<a href="#" className="hover:underline">
-										Source Code
-									</a>
-								</li>
+
 								<li>
 									<a href="#" className="hover:underline">
 										Blog
@@ -82,22 +73,22 @@ export const Footer = () => {
 							<p className="mb-2 font-semibold text-slate-600 dark:text-neutral-200">Product</p>
 							<ul className="flex flex-col gap-1 text-slate-700 dark:text-neutral-300">
 								<li>
-									<a href="#" className="hover:underline">
+									<a href="https://kpododoconsult.com/contact" className="hover:underline">
 										Pricing
 									</a>
 								</li>
 								<li>
-									<a href="#" className="hover:underline">
+									<a href="https://kpododoconsult.com/contact" className="hover:underline">
 										Documentation
 									</a>
 								</li>
 								<li>
-									<a href="#" className="hover:underline">
+									<a href="https://kpododoconsult.com/contact" className="hover:underline">
 										Integrations
 									</a>
 								</li>
 								<li>
-									<a href="#" className="hover:underline">
+									<a href="https://kpododoconsult.com/contact" className="hover:underline">
 										Support
 									</a>
 								</li>
@@ -112,7 +103,7 @@ export const Footer = () => {
 									</a>
 								</li>
 								<li>
-									<a href="#" className="hover:underline">
+									<a href="https://kpododoconsult.com/career" className="hover:underline">
 										Careers
 									</a>
 								</li>
@@ -122,7 +113,7 @@ export const Footer = () => {
 									</a>
 								</li>
 								<li>
-									<a href="#" className="hover:underline">
+									<a href="https://kpododoconsult.com/about" className="hover:underline">
 										About us
 									</a>
 								</li>
